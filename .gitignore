@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment
+.env
+venv/
+env/
+
+# Package Manager
+# uv.lock 파일은 팀원 간 패키지 버전 동기화를 위해 올리기도 하지만, 상황에 따라 추가/제외하세요.
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
